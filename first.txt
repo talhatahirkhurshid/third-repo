@@ -1,3 +1,8 @@
 new  hello world
 
 worling
+<<<<<<< HEAD
+=======
+
+this is working on master  branch
+>>>>>>> 0a8b7c55e0257fc573f16f29db02bc51d94e76cb
